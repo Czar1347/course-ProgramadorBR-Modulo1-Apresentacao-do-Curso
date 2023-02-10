@@ -1,0 +1,1 @@
+Módulo de boas-vindas onde é explicado como a plataforma funciona, como tirar dúvidas, baixar certificados e quais as ferramentas vamos utilizar no decorrer do curso.

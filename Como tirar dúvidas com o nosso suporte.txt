@@ -1,0 +1,9 @@
+O nosso email de suporte é: suporte@programadorbr.com;
+
+Quando for mandar um email para a gente, por favor, não esqueça de:
+
+1.colocar no assunto do email o tema da dúvida
+2.descrever no email qual é a sua dúvida em detalhes
+3.se a dúvida for em alguma aula, falar qual aula e, se possível, em qual minuto da aula o que eu falei te gerou dúvida
+4.se estiver dando um erro, mandar uma imagem do erro
+5.se tiver que enviar um código, compartilhe a pasta do arquivo pelo Google Drive e permita o acesso a qualquer pessoa com o link (vou mostrar como fazer isso na prática em uma aula futura)
